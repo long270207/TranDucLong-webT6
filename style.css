@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    background-color: #D6EAF6;
+}
+
+#id123{
+    color:grey;
+    background-color: yellow;
+}
+
+.myclass{
+    color: pink;
+}
+
+* {
+    color: yellowgreen;
+}

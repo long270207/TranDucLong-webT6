@@ -1,0 +1,18 @@
+nav ul {
+    background-color: #444;
+    height: 110px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 30px;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 24px;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
