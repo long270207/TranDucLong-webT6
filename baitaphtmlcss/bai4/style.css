@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0
+}
+
+body{
+    background-color: #d6d0f1;
+    font-family: sans-serif;
+}
+
+.wrap{
+    margin: 50px auto;
+    background-color: white;
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.profile{
+    display: block;
+    text-align: center;
+}
+
+.avatar{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    background-color: #326ad1;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+p, h3{
+    margin: 5px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
